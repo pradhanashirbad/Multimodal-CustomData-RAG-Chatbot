@@ -1,0 +1,25 @@
+# Core packages
+chromadb
+langchain-openai
+openai
+pandas
+pillow
+python-dotenv
+matplotlib
+open-clip-torch
+
+# For Gradio implementation
+gradio
+ffmpeg-python # Required for some media handling in Gradio
+
+# Vector embeddings
+sentence-transformers
+
+# LangChain dependencies
+langchain   
+langchain-core
+
+# Additional dependencies
+requests    
+typing-extensions   
+pydantic
