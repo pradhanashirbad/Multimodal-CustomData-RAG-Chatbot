@@ -4,7 +4,7 @@ A chatbot application for searching and querying an electronics product database
 
 ## Sample Interface
 
-![Sample Interface](sample@SamplePic1.png)
+![Sample Interface](presentation/SamplePic1.png)
 
 The interface allows users to:
 - Upload product images for visual search
